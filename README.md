@@ -41,5 +41,12 @@ You will also need to have an OpenAI API key to use the embedding and GPT model.
 
 ## Results
 
-The results of the analysis include the clusters of reviews and summaries of negative reviews related to specific aspects of the Google Maps app. 
-The output of the notebook includes visualizations of the review data and these summaries. These insights can be used to understand user pain points and inform product enhancements.
+Clusters
+
+<img width="618" alt="image" src="https://github.com/dlworudgg/googl_maps_app_review_analysis/assets/37742961/7a01851b-3e73-4ee0-8a06-c7699c9f4ed7">
+
+Summary of Negative Reivews
+
+<img width="608" alt="image" src="https://github.com/dlworudgg/googl_maps_app_review_analysis/assets/37742961/ecacf4a7-76a3-4437-b67e-7034454eda78">
+
+
