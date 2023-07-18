@@ -38,6 +38,9 @@ You will also need to have an OpenAI API key to use the embedding and GPT model.
 
 ## Overview of data
 
+![image](https://github.com/dlworudgg/googl_maps_app_review_analysis/assets/37742961/dafad152-c606-4aaa-a310-ff4e3b3beb5f)
+
+
 ![image](https://github.com/dlworudgg/googl_maps_app_review_analysis/assets/37742961/b683e682-4d3b-43c3-bc25-eb322098a2a5)
 
 
